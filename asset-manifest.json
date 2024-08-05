@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNotebook--MERN/static/css/main.a1bab648.css",
+    "main.js": "/iNotebook--MERN/static/js/main.31d95a6e.js",
+    "index.html": "/iNotebook--MERN/index.html",
+    "main.a1bab648.css.map": "/iNotebook--MERN/static/css/main.a1bab648.css.map",
+    "main.31d95a6e.js.map": "/iNotebook--MERN/static/js/main.31d95a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bab648.css",
+    "static/js/main.31d95a6e.js"
+  ]
+}
